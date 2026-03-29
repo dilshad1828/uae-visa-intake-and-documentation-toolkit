@@ -1,0 +1,15 @@
+{
+  "visa_type": "golden",
+  "full_name": "",
+  "nationality": "",
+  "passport_number": "",
+  "emirates_id": "",
+  "category": "",
+  "documents": {
+    "passport": false,
+    "emirates_id": false,
+    "photo": false,
+    "bank_statements": false,
+    "tenancy_contract": false
+  }
+}
