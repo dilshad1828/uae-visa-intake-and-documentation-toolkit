@@ -1,0 +1,13 @@
+{
+  "visa_type": "employment",
+  "full_name": "",
+  "company": "",
+  "designation": "",
+  "passport_number": "",
+  "documents": {
+    "passport": false,
+    "contract": false,
+    "photo": false,
+    "medical": false
+  }
+}
