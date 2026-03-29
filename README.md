@@ -1,65 +1,90 @@
-# UAE Visa Intake & Documentation Toolkit (Open Source)
+#  UAE Visa Intake & Documentation Toolkit
 
-A hybrid professional + technical open-source toolkit designed to standardize UAE visa documentation workflows.  
-This project provides structured intake forms, JSON templates, documentation checklists, and validation scripts for Golden Visa, Employment Visa, and Family Visa applications.
+## 📌 Overview
+
+A professional, reusable toolkit designed to standardize UAE visa intake processes for HR teams, PROs, and visa consultants.
+
+This toolkit reduces document errors, improves data accuracy, and streamlines applicant onboarding through structured digital forms.
 
 ---
 
-## 🌟 Features
+## 🎯 Who This Is For
 
-- Golden Visa, Employment Visa, and Family Visa intake forms  
-- JSON-based data collection templates  
-- Automated checklist generator (JavaScript)  
-- Validation rules for required fields  
-- Multilingual-ready (English/Arabic)  
-- Fully open-source and customizable  
+* HR & Recruitment Teams
+* PRO / Government Relations Officers
+* Visa Consultants
+* Immigration Service Providers
+
+---
+
+## ⚙️ Features
+
+* Structured visa intake forms:
+
+  * Employment Visa
+  * Family Visa
+  * Golden Visa
+* Clean, editable HTML templates
+* Standardized data collection
+* Easy to customize and deploy
 
 ---
 
 ## 📂 Project Structure
 
-See folder structure in this repository for forms, templates, checklists, and scripts.
+```
+Forms/
+ ├── employment-visa-intake.html
+ ├── family-visa-intake.html
+ └── golden-visa-intake.html
+```
 
 ---
 
-## 🧩 JSON Templates
+## 🚀 How to Use
 
-Standardized schemas for visa data collection.
+1. Download or clone this repository
+2. Open any form in your browser
+3. Fill in applicant details
+4. Customize fields as per requirement
 
 ---
 
-## 🛠️ Scripts
+## 🧩 Upcoming Enhancements (Roadmap)
 
-### checklist-generator.js  
-Converts JSON input into a formatted checklist.
-
-### validator.js  
-Validates required fields and ensures completeness.
+* Form validation (required fields, format checks)
+* Export to PDF / JSON
+* Admin dashboard
+* Multi-language support
+* API integration
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome.  
-You can help by improving templates, adding visa types, or enhancing validation logic.
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Make changes
+4. Submit a pull request
 
 ---
 
-## 📜 License
+## 🔐 License
 
-MIT License — free to use, modify, and distribute.
+MIT License
 
 ---
 
 ## 👤 Maintainer
 
-**Dilshad**  
-HR/TA Specialist • Visa Workflow Expert • Operations Advisor  
-Dubai & Ras Al Khaimah, UAE
+Dilshad Chalil
+IT Recruitment & HR Operations Specialist
+Dubai, UAE
 
 ---
 
-## ⭐ Purpose
+## 🌟 Support This Project
 
-To reduce errors, improve clarity, and standardize UAE visa documentation workflows for individuals and organizations.
-
+If you find this useful, please ⭐ star the repository and share!
