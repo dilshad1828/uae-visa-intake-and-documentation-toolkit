@@ -1,0 +1,12 @@
+{
+  "visa_type": "family",
+  "sponsor_name": "",
+  "relationship": "",
+  "passport_number": "",
+  "documents": {
+    "passport": false,
+    "sponsor_eid": false,
+    "marriage_certificate": false,
+    "birth_certificate": false
+  }
+}
